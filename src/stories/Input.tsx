@@ -8,6 +8,8 @@ interface ButtonProps {
 
     label: string;
 }
+
+
 export const Input = ({
     type = 'text',
     size = 'medium',
